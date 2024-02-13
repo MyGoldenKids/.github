@@ -1,14 +1,14 @@
 ## 📚 Table of Contents
 
-- [DEPLOY URL](#-deploy-url)
-- [SPECIFICATION](#-specification)
-- [INTRODUCTION](#-introduction)
-- [SERVICE LAYOUT](#-service-layout)
-- [SKILLS](#-skills)
-- [SYSTEM ARCHITECTURE](#-system-architecture)
-- [ERD](#-erd)
-- [FEATURES](#-features)
-- [DEVELOPERS](#-developers)
+- [DEPLOY URL](#deploy-url)
+- [SPECIFICATION](#specification)
+- [INTRODUCTION](#introduction)
+- [SERVICE LAYOUT](#service-layout)
+- [SKILLS](#skills)
+- [SYSTEM ARCHITECTURE](#system-architecture)
+- [ERD](#erd)
+- [FEATURES](#features)
+- [DEVELOPERS](#developers)
 
 <br>
 
