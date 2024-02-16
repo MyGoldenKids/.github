@@ -51,20 +51,20 @@
 ## Service Layout
 
 ### 메인
-<img src="../assets/메인.png" width="800" alt="main">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/%EB%A9%94%EC%9D%B8.png" width="800" alt="main">
 
 ### 금쪽 플래너
-<img src="../assets/금쪽플래너.gif" width="800" alt="plan">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/%EA%B8%88%EC%AA%BD%ED%94%8C%EB%9E%98%EB%84%88.gif" width="800" alt="plan">
 
 ### 금쪽 다이어리
-<img src="../assets/다이어리.png" width="800" alt="diary">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC.png" width="800" alt="diary">
 
 
 ### 자가진단
-<img src="../assets/자가진단.png" width="800" alt="survey">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8.png" width="800" alt="survey">
 
 ### 꿀팁 게시판
-<img src="../assets/게시판.png" width="800" alt="article">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/%EA%B2%8C%EC%8B%9C%ED%8C%90.png" width="800" alt="article">
 
 <br>
 
@@ -101,12 +101,12 @@
 --- 
 
 ## System Architecture
-<img src="../assets/시스템 아키텍쳐.png" width="800" alt="architecture">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png" width="800" alt="architecture">
 
 ---
 
 ## ERD
-<img src="../assets/ERD.png" width="800" alt="ERD">
+<img src="https://github.com/MyGoldenKids/.github/blob/main/assets/ERD.png" width="800" alt="ERD">
 
 
 ---
